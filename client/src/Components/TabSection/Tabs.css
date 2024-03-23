@@ -1,0 +1,11 @@
+#tabs {
+    margin-top: 5%;
+}
+
+.tabList{
+    list-style-type: none;
+    font-size: xx-large;
+    margin-top: 14%;
+    padding-left: 3%;
+    text-align: left;
+}

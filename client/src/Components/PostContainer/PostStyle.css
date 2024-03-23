@@ -1,0 +1,49 @@
+/* Post body */
+#postBody {
+    border: 2px solid black;
+}
+
+/* User */
+#postCreator {
+    font-size: medium;
+    font-weight: bold;
+}
+
+#postCreaterProfile {
+    text-decoration: none;
+    color: black
+}
+
+/* Post text */
+#postText {
+    font-size: larger;
+    margin-top: 1%;
+}
+
+/* Post createdAt */
+#postCreatedAt {
+    margin-top: 1%;
+}
+
+/* Create post home page */
+#createPostBody {
+    border: 2px solid black;
+}
+
+#usernameHomepage {
+    margin-left: 3%;
+    padding: 1%;
+}
+
+#newPostContainer {
+    padding: 2%;
+}
+
+#newPost, #fileInput {
+    padding: 2%;
+}
+
+#newPostBtn {
+    margin-bottom: 5%;
+    padding-right: 2%;
+}

@@ -1,0 +1,22 @@
+/* Title Section */
+#title {
+    width: 33%;
+}
+
+.siteName{
+    text-align: center;
+}
+
+/* Pages Section */
+#pages {
+    width: 33%;
+}
+
+.pageTitle {
+    text-align: center;
+}
+
+/* Search Section */
+#search {
+    width: 33%;
+}
